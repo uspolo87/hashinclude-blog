@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.706" height="128.194" viewBox="0 0 103.706 128.194">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4cd586;
+      }
+
+      .cls-2 {
+        filter: url(#Icon_feather-bookmark);
+      }
+    </style>
+    <filter id="Icon_feather-bookmark" x="0" y="0" width="103.706" height="128.194" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Icon_feather-bookmark-2" data-name="Icon feather-bookmark" class="cls-1" d="M93.207,114.694,50.353,84.085,7.5,114.694V11.345C7.5,4.582,12.982,4.5,19.744,4.5H80.963c6.762,0,12.244.082,12.244,6.845Z" transform="translate(1.5 1.5)"/>
+  </g>
+</svg>
